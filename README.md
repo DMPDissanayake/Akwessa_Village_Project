@@ -32,6 +32,12 @@ The "Akwessa Village Project" is a Java-based console application designed to de
 
 4. **View Results**:
    - The program will display whether each family is eligible for the "ASWESUMA" program based on their average income.
+<hr hight =5px>
 
-## Example
 
+## Two Shas/
+# One Shas
+<img src ="1.webp" width =100%>
+
+- point 1
+- point 2
